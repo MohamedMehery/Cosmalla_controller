@@ -1,0 +1,20 @@
+.LDL1117S50R :1 ;STMICROELECTRONICS - LDL1117S50R - LDO, FIXED, 5V, 1.2A, SOT-223-3
+SOT230P700X180-4N
+*STM IC
+*NGS
+*PLB 1="GND" 2="VOUT_1" 3="VIN" 4="VOUT_2"
+*MXP 4
+*DFN LDL1117S50R
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (LDL1117S50R)
+~!Mouser Part Number (511-LDL1117S50R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LDL1117S50R?qs=AQlKX63v8RsuN9BQFiVf%2Fg%3D%3D)
+~!Arrow Part Number (LDL1117S50R)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ldl1117s50r/stmicroelectronics?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.farnell.com/datasheets/2259188.pdf)
+~!Height (1.8mm)
+~!3D_Model (LDL1117S50R)
+LDL1117S50R
+1.1!U 2.1!U 3.1!U 4.1!U 

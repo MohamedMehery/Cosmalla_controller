@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=LDL1117S50R
+PartCategory=Integrated Circuit
+PackageCategory=SOT223 (3-Pin)
+PinCount=4
+Version=1.1
+Released=2018-07-17 17:17:08
+Downloaded=2023-01-31 10:27:10
+3D=Y

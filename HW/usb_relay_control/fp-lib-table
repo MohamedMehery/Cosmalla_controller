@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/LIB_MMBT2222A-TP/MMBT2222A-TP/KiCad")(options "")(descr ""))
+  (lib (name "8.06")(type "KiCad")(uri "${KIPRJMOD}/8.06.04_J-LINK_NEEDLE_ADAPTER")(options "")(descr ""))
+  (lib (name "INA4181A1IPWR")(type "KiCad")(uri "${KIPRJMOD}/INA4181A1IPWR")(options "")(descr ""))
+  (lib (name "2301843-2")(type "KiCad")(uri "${KIPRJMOD}/LIB_2301843-2/2301843-2")(options "")(descr ""))
+)

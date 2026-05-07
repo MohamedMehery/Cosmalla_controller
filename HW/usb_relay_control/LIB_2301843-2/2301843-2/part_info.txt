@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=2301843-2
+PartCategory=Connector
+PackageCategory=Other
+PinCount=11
+Version=1.2
+Released=2018-07-02 10:08:35
+Downloaded=2023-02-02 06:56:47
+3D=Y

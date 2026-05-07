@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMR1802G-LBTR
+D Operational Amplifiers - Op Amps 5uV Offset Voltage SSOP5 CMOS
+K
+F https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers/high-performance/ground-sense/lmr1802g-lb-product
+$ENDCMP
+#
+#End Doc Library

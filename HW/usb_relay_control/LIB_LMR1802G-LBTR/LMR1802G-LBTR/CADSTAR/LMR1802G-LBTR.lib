@@ -1,0 +1,20 @@
+.LMR1802G-LBTR :1 ;Operational Amplifiers - Op Amps 5uV Offset Voltage SSOP5 CMOS
+SOT95P280X125-5N
+*STM IC
+*NGS
+*PLB 1="+IN" 2="VSS" 3="-IN" 4="OUT" 5="VDD"
+*MXP 5
+*DFN LMR1802G-LBTR
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (LMR1802G-LBTR)
+~!Mouser Part Number (755-LMR1802G-LBTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/LMR1802G-LBTR?qs=%252BEew9%252B0nqrCcdg%2Fv8y6fXw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers/high-performance/ground-sense/lmr1802g-lb-product)
+~!Height (1.25mm)
+~!3D_Model (LMR1802G-LBTR)
+LMR1802G-LBTR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

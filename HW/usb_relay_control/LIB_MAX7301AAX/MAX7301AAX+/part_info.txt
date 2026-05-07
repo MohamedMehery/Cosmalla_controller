@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX7301AAX+
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=36
+Version=5.1
+Released=2015-05-24 21:47:42
+Downloaded=2023-02-01 07:46:49
+3D=Y

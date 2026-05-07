@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMR1802G_LBTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "LMR1802G-LBTR" (!) = "", "SOT95P280X125-5N", "SOT23 (5-Pin)", "755-LMR1802G-LBTR", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/LMR1802G-LBTR?qs=%252BEew9%252B0nqrCcdg%2Fv8y6fXw%3D%3D", "", "", "", "", "Operational Amplifiers - Op Amps 5uV Offset Voltage SSOP5 CMOS", "https://www.rohm.com/products/amplifiers-and-linear/operational-amplifiers/high-performance/ground-sense/lmr1802g-lb-product", "1.25 mm"
+END_PART
+
+END.

@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MMBT2222A-TP
+#/554115/977640/2.49/3/4/Transistor BJT NPN
+DEF MMBT2222A-TP Q 0 30 Y Y 1 F N
+F0 "Q" 550 50 50 H V L CNN
+F1 "MMBT2222A-TP" 550 -50 50 H V L CNN
+F2 "SI2305TP" 550 -150 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/282e04cdf1a526471339103510be6d53.pdf" 550 -250 50 H I L CNN
+F4 "MICRO COMMERCIAL COMPONENTS - MMBT2222A-TP - BJT, NPN, 40VDC, SOT-23" 550 -350 50 H I L CNN "Description"
+F5 "" 550 -450 50 H I L CNN "Height"
+F6 "MCC" 550 -550 50 H I L CNN "Manufacturer_Name"
+F7 "MMBT2222A-TP" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+F8 "833-MMBT2222A-TP" 550 -750 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/MMBT2222A-TP?qs=KFo7JewZbUE%252BJc5W0eD55w%3D%3D" 550 -850 50 H I L CNN "Mouser Price/Stock"
+F10 "MMBT2222A-TP" 550 -950 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mmbt2222a-tp/micro-commercial-components?region=europe" 550 -1050 50 H I L CNN "Arrow Price/Stock"
+F12 "" 550 -1150 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 550 -1250 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 -300 100 U 50 50 0 0 P
+X ~ 3 400 300 100 D 50 50 0 0 P
+P 2 0 1 20 300 100 300 -100 N
+P 2 0 1 6 300 50 400 150 N
+P 2 0 1 6 300 -50 400 -150 N
+P 2 0 1 6 400 -150 400 -200 N
+P 2 0 1 6 400 150 400 200 N
+P 2 0 1 6 100 0 300 0 N
+C 350 0 158 0 1 10 N
+P 4 0 1 10 330 -100 350 -80 370 -120 330 -100 F
+ENDDRAW
+ENDDEF
+#
+#End Library

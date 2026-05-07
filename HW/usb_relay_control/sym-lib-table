@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "8.06.04_J-LINK_NEEDLE_ADAPTER")(type "KiCad")(uri "${KIPRJMOD}/8.06.04_J-LINK_NEEDLE_ADAPTER/8.06.04_J-LINK_NEEDLE_ADAPTER.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX7301AAX")(type "Legacy")(uri "${KIPRJMOD}/LIB_MAX7301AAX/MAX7301AAX+/MAX7301AAX+/MAX7301AAX.lib")(options "")(descr ""))
+  (lib (name "2301843-2")(type "Legacy")(uri "${KIPRJMOD}/LIB_2301843-2/2301843-2/2301843-2.lib")(options "")(descr ""))
+  (lib (name "BZX84C3V3")(type "Legacy")(uri "${KIPRJMOD}/LIB_BZX84C3V3/BZX84C3V3/BZX84C3V3/BZX84C3V3.lib")(options "")(descr ""))
+)

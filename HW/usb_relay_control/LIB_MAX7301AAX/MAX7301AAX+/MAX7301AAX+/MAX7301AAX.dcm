@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX7301AAX+
+D MAX7301AAX+, I/O Expander, 36-Pin SSOP
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX7301.pdf
+$ENDCMP
+#
+#End Doc Library
