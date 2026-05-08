@@ -1,9 +1,0 @@
-Manufacturer=onsemi
-PartNumber=BZX84C3V3
-PartCategory=Integrated Circuit
-PackageCategory=SOT23 (3-Pin)
-PinCount=3
-Version=2.1
-Released=2015-05-24 21:47:42
-Downloaded=2023-02-02 10:45:45
-3D=Y

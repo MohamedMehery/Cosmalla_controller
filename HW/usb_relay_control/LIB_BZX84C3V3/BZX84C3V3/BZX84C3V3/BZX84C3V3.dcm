@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP BZX84C3V3
-D BZX84C3V3, Zener Diode, 3.3V +/-5 350 mW 5A, 3-Pin SOT-23
-K
-F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/149fc8ee07d4919a2a63bc6ced8896db.pdf
-$ENDCMP
-#
-#End Doc Library

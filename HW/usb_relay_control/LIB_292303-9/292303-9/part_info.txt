@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=292303-9
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2018-08-16 12:54:08
+Downloaded=2023-02-07 13:31:01
+3D=Y

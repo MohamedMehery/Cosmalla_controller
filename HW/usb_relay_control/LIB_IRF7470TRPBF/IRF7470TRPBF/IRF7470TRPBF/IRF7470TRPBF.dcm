@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF7470TRPBF
+D IRF7470TRPBF N-Channel MOSFET, 10 A, 40 V IRF7470PbF, 8-Pin SO Infineon
+K
+F https://www.infineon.com/dgdl/irf7470pbf.pdf?fileId=5546d462533600a4015355ff2fe11c18
+$ENDCMP
+#
+#End Doc Library

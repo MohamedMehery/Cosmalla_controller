@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MMBT2222LT1G
+#/225759/1034006/2.49/3/3/Transistor
+DEF MMBT2222LT1G Q 0 30 Y Y 1 F N
+F0 "Q" 650 300 50 H V L CNN
+F1 "MMBT2222LT1G" 650 200 50 H V L CNN
+F2 "SOT96P237X111-3N" 650 100 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/MMBT2222LT1-D.PDF" 650 0 50 H I L CNN
+F4 "ON SEMICONDUCTOR - MMBT2222LT1G. - Bipolar (BJT) Single Transistor, General Purpose, NPN, 30 V, 250 MHz, 225 mW, 600 mA, 250 hFE" 650 -100 50 H I L CNN "Description"
+F5 "1.11" 650 -200 50 H I L CNN "Height"
+F6 "863-MMBT2222LT1G" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT2222LT1G?qs=HVbQlW5zcXXDmyyswaLspw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "onsemi" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MMBT2222LT1G" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X B 1 0 0 200 R 50 50 0 0 P
+X E 2 0 -100 200 R 50 50 0 0 P
+X C 3 800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

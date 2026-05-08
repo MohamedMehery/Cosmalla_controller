@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBT2222LT1G
+D ON SEMICONDUCTOR - MMBT2222LT1G. - Bipolar (BJT) Single Transistor, General Purpose, NPN, 30 V, 250 MHz, 225 mW, 600 mA, 250 hFE
+K
+F http://www.onsemi.com/pub/Collateral/MMBT2222LT1-D.PDF
+$ENDCMP
+#
+#End Doc Library
